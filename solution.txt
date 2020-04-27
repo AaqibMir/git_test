@@ -1,0 +1,1 @@
+The reason github kept asking my username and password for push commands because I had cloned the repository using https url. Now I did it right by getting rid of the local repo and cloning it again using the ssh url. It worked like charm. Took me a lot of time to figure out but learned a lesson along the way. And the best part, I don't feel sleepy at all!
